@@ -1,0 +1,1058 @@
+[
+  {
+    "value": 0,
+    "label": "互联网IT",
+    "children": [
+      {
+        "value": 0,
+        "label": "Java开发"
+      },
+      {
+        "value": 1,
+        "label": "UI设计师"
+      },
+      {
+        "value": 2,
+        "label": "Web前端"
+      },
+      {
+        "value": 3,
+        "label": "PHP"
+      },
+      {
+        "value": 4,
+        "label": "Python"
+      },
+      {
+        "value": 5,
+        "label": "Android"
+      },
+      {
+        "value": 6,
+        "label": "美工"
+      },
+      {
+        "value": 7,
+        "label": "深度学习"
+      },
+      {
+        "value": 8,
+        "label": "算法工程师"
+      },
+      {
+        "value": 9,
+        "label": "Hadoop"
+      },
+      {
+        "value": 10,
+        "label": "Node.js"
+      },
+      {
+        "value": 11,
+        "label": "数据开发"
+      },
+      {
+        "value": 12,
+        "label": "数据分析师"
+      },
+      {
+        "value": 13,
+        "label": "数据架构"
+      },
+      {
+        "value": 14,
+        "label": "人工智能"
+      },
+      {
+        "value": 15,
+        "label": "区块链"
+      },
+      {
+        "value": 16,
+        "label": "电气工程师"
+      },
+      {
+        "value": 17,
+        "label": "电子工程师"
+      },
+      {
+        "value": 18,
+        "label": "PLC"
+      },
+      {
+        "value": 19,
+        "label": "测试工程师"
+      },
+      {
+        "value": 20,
+        "label": "设备工程师"
+      },
+      {
+        "value": 21,
+        "label": "硬件工程师"
+      },
+      {
+        "value": 22,
+        "label": "结构工程师"
+      },
+      {
+        "value": 23,
+        "label": "工艺工程师"
+      },
+      {
+        "value": 24,
+        "label": "产品经理"
+      },
+      {
+        "value": 25,
+        "label": "新媒体运营"
+      },
+      {
+        "value": 26,
+        "label": "运营专员"
+      },
+      {
+        "value": 27,
+        "label": "淘宝运营"
+      },
+      {
+        "value": 28,
+        "label": "天猫运营"
+      },
+      {
+        "value": 29,
+        "label": "产品助理"
+      },
+      {
+        "value": 30,
+        "label": "产品运营"
+      },
+      {
+        "value": 31,
+        "label": "淘宝客服"
+      },
+      {
+        "value": 32,
+        "label": "游戏运营"
+      },
+      {
+        "value": 33,
+        "label": "编辑"
+      }
+    ]
+  },
+  {
+    "value": 1,
+    "label": "金融",
+    "children": [
+      {
+        "value": 0,
+        "label": "投资经理"
+      },
+      {
+        "value": 1,
+        "label": "风控"
+      },
+      {
+        "value": 2,
+        "label": "催收"
+      },
+      {
+        "value": 3,
+        "label": "银行柜员"
+      },
+      {
+        "value": 4,
+        "label": "银行销售"
+      },
+      {
+        "value": 5,
+        "label": "信审"
+      },
+      {
+        "value": 6,
+        "label": "信用卡"
+      },
+      {
+        "value": 7,
+        "label": "贷款"
+      },
+      {
+        "value": 8,
+        "label": "金融产品"
+      },
+      {
+        "value": 9,
+        "label": "汽车金融"
+      },
+      {
+        "value": 10,
+        "label": "金融研究"
+      },
+      {
+        "value": 11,
+        "label": "证券"
+      },
+      {
+        "value": 12,
+        "label": "交易员"
+      },
+      {
+        "value": 13,
+        "label": "投资经理"
+      },
+      {
+        "value": 14,
+        "label": "期货"
+      },
+      {
+        "value": 15,
+        "label": "操盘手"
+      },
+      {
+        "value": 16,
+        "label": "基金"
+      },
+      {
+        "value": 17,
+        "label": "股票"
+      },
+      {
+        "value": 18,
+        "label": "投资顾问"
+      },
+      {
+        "value": 19,
+        "label": "信托"
+      },
+      {
+        "value": 20,
+        "label": "典当"
+      },
+      {
+        "value": 21,
+        "label": "担保"
+      },
+      {
+        "value": 22,
+        "label": "信贷"
+      },
+      {
+        "value": 23,
+        "label": "权证"
+      },
+      {
+        "value": 24,
+        "label": "财产保险"
+      },
+      {
+        "value": 25,
+        "label": "保险内勤"
+      },
+      {
+        "value": 26,
+        "label": "理赔"
+      },
+      {
+        "value": 27,
+        "label": "精算师"
+      },
+      {
+        "value": 28,
+        "label": "保险销售"
+      },
+      {
+        "value": 29,
+        "label": "理财顾问"
+      },
+      {
+        "value": 30,
+        "label": "查勘定损"
+      },
+      {
+        "value": 31,
+        "label": "车险"
+      }
+    ]
+  },
+  {
+    "value": 2,
+    "label": "房地产/建筑",
+    "children": [
+      {
+        "value": 0,
+        "label": "土建工程师"
+      },
+      {
+        "value": 1,
+        "label": "施工员"
+      },
+      {
+        "value": 2,
+        "label": "资料员"
+      },
+      {
+        "value": 3,
+        "label": "预算员"
+      },
+      {
+        "value": 4,
+        "label": "造价员"
+      },
+      {
+        "value": 5,
+        "label": "一级建造师"
+      },
+      {
+        "value": 6,
+        "label": "室内设计师"
+      },
+      {
+        "value": 7,
+        "label": "土建"
+      },
+      {
+        "value": 8,
+        "label": "暖通"
+      },
+      {
+        "value": 9,
+        "label": "项目经理"
+      },
+      {
+        "value": 10,
+        "label": "电气工程师"
+      },
+      {
+        "value": 11,
+        "label": "建筑设计"
+      },
+      {
+        "value": 12,
+        "label": "置业顾问"
+      },
+      {
+        "value": 13,
+        "label": "房地产销售"
+      },
+      {
+        "value": 14,
+        "label": "房地产招商"
+      },
+      {
+        "value": 15,
+        "label": "开发报建"
+      },
+      {
+        "value": 16,
+        "label": "房地产策划"
+      },
+      {
+        "value": 17,
+        "label": "房地产开发"
+      },
+      {
+        "value": 18,
+        "label": "房地产评估"
+      },
+      {
+        "value": 19,
+        "label": "地产经纪"
+      },
+      {
+        "value": 20,
+        "label": "物业"
+      },
+      {
+        "value": 21,
+        "label": "物业经理"
+      },
+      {
+        "value": 22,
+        "label": "保安"
+      },
+      {
+        "value": 23,
+        "label": "客服"
+      },
+      {
+        "value": 24,
+        "label": "物业管理"
+      },
+      {
+        "value": 25,
+        "label": "物业客服"
+      },
+      {
+        "value": 26,
+        "label": "电工"
+      },
+      {
+        "value": 27,
+        "label": "物业主管"
+      },
+      {
+        "value": 28,
+        "label": "物业维修"
+      },
+      {
+        "value": 29,
+        "label": "消防"
+      },
+      {
+        "value": 30,
+        "label": "客服主管"
+      },
+      {
+        "value": 31,
+        "label": "前台"
+      },
+      {
+        "value": 32,
+        "label": "文员"
+      },
+      {
+        "value": 33,
+        "label": "物业项目经理"
+      }
+    ]
+  },
+  {
+    "value": 3,
+    "label": "贸易/零售/物流",
+    "children": [
+      {
+        "value": 0,
+        "label": "采购"
+      },
+      {
+        "value": 1,
+        "label": "外贸"
+      },
+      {
+        "value": 2,
+        "label": "外贸业务员"
+      },
+      {
+        "value": 3,
+        "label": "外贸跟单"
+      },
+      {
+        "value": 4,
+        "label": "采购助理"
+      },
+      {
+        "value": 5,
+        "label": "外贸日语"
+      },
+      {
+        "value": 6,
+        "label": "采购专员"
+      },
+      {
+        "value": 7,
+        "label": "外贸英语"
+      },
+      {
+        "value": 8,
+        "label": "外贸助理"
+      },
+      {
+        "value": 9,
+        "label": "采购经理"
+      },
+      {
+        "value": 10,
+        "label": "买手"
+      },
+      {
+        "value": 11,
+        "label": "导购"
+      },
+      {
+        "value": 12,
+        "label": "营业员"
+      },
+      {
+        "value": 13,
+        "label": "店长"
+      },
+      {
+        "value": 14,
+        "label": "收银员"
+      },
+      {
+        "value": 15,
+        "label": "销售"
+      },
+      {
+        "value": 16,
+        "label": "导购员"
+      },
+      {
+        "value": 17,
+        "label": "督导"
+      },
+      {
+        "value": 18,
+        "label": "客服"
+      },
+      {
+        "value": 19,
+        "label": "新零售产品"
+      },
+      {
+        "value": 20,
+        "label": "理货员"
+      },
+      {
+        "value": 21,
+        "label": "供应链"
+      },
+      {
+        "value": 22,
+        "label": "物流专员"
+      },
+      {
+        "value": 23,
+        "label": "物流经理"
+      },
+      {
+        "value": 24,
+        "label": "物流运营"
+      },
+      {
+        "value": 25,
+        "label": "物流跟单"
+      },
+      {
+        "value": 26,
+        "label": "物流管理"
+      },
+      {
+        "value": 27,
+        "label": "物仓调度"
+      },
+      {
+        "value": 28,
+        "label": "货运代理"
+      },
+      {
+        "value": 29,
+        "label": "报检报关"
+      },
+      {
+        "value": 30,
+        "label": "仓储管理"
+      }
+    ]
+  },
+  {
+    "value": 4,
+    "label": "教育/传媒/广告",
+    "children": [
+      {
+        "value": 0,
+        "label": "教师"
+      },
+      {
+        "value": 1,
+        "label": "英语老师"
+      },
+      {
+        "value": 2,
+        "label": "课程顾问"
+      },
+      {
+        "value": 3,
+        "label": "英语"
+      },
+      {
+        "value": 4,
+        "label": "教务"
+      },
+      {
+        "value": 5,
+        "label": "美术老师"
+      },
+      {
+        "value": 6,
+        "label": "幼教"
+      },
+      {
+        "value": 7,
+        "label": "小学教师"
+      },
+      {
+        "value": 8,
+        "label": "班主任"
+      },
+      {
+        "value": 9,
+        "label": "助教"
+      },
+      {
+        "value": 10,
+        "label": "编导"
+      },
+      {
+        "value": 11,
+        "label": "摄影师"
+      },
+      {
+        "value": 12,
+        "label": "编剧"
+      },
+      {
+        "value": 13,
+        "label": "摄影"
+      },
+      {
+        "value": 14,
+        "label": "后期制作"
+      },
+      {
+        "value": 15,
+        "label": "制片"
+      },
+      {
+        "value": 16,
+        "label": "记者"
+      },
+      {
+        "value": 17,
+        "label": "剪辑"
+      },
+      {
+        "value": 18,
+        "label": "化妆师"
+      },
+      {
+        "value": 19,
+        "label": "广告创意"
+      },
+      {
+        "value": 20,
+        "label": "美术指导"
+      },
+      {
+        "value": 21,
+        "label": "策划经理"
+      },
+      {
+        "value": 22,
+        "label": "文案"
+      },
+      {
+        "value": 23,
+        "label": "广告制作"
+      },
+      {
+        "value": 24,
+        "label": "媒介"
+      },
+      {
+        "value": 25,
+        "label": "广告审核"
+      },
+      {
+        "value": 26,
+        "label": "平面设计"
+      },
+      {
+        "value": 27,
+        "label": "网页设计"
+      },
+      {
+        "value": 28,
+        "label": "插画师"
+      },
+      {
+        "value": 29,
+        "label": "工业设计"
+      },
+      {
+        "value": 30,
+        "label": "视觉设计"
+      }
+    ]
+  },
+  {
+    "value": 5,
+    "label": "服务业",
+    "children": [
+      {
+        "value": 0,
+        "label": "美容师"
+      },
+      {
+        "value": 1,
+        "label": "美容学徒"
+      },
+      {
+        "value": 2,
+        "label": "美容导师"
+      },
+      {
+        "value": 3,
+        "label": "纹绣师"
+      },
+      {
+        "value": 4,
+        "label": "医美"
+      },
+      {
+        "value": 5,
+        "label": "美甲师"
+      },
+      {
+        "value": 6,
+        "label": "健身教练"
+      },
+      {
+        "value": 7,
+        "label": "导游"
+      },
+      {
+        "value": 8,
+        "label": "旅游顾问"
+      },
+      {
+        "value": 9,
+        "label": "旅游计调"
+      },
+      {
+        "value": 10,
+        "label": "签证"
+      },
+      {
+        "value": 11,
+        "label": "旅游销售"
+      },
+      {
+        "value": 12,
+        "label": "票务"
+      },
+      {
+        "value": 13,
+        "label": "服务员"
+      },
+      {
+        "value": 14,
+        "label": "收银员"
+      },
+      {
+        "value": 15,
+        "label": "店长"
+      },
+      {
+        "value": 16,
+        "label": "酒店前台"
+      },
+      {
+        "value": 17,
+        "label": "酒店管理"
+      },
+      {
+        "value": 18,
+        "label": "餐饮管理"
+      },
+      {
+        "value": 19,
+        "label": "收银"
+      },
+      {
+        "value": 20,
+        "label": "保安"
+      },
+      {
+        "value": 21,
+        "label": "保洁"
+      },
+      {
+        "value": 22,
+        "label": "月嫂"
+      },
+      {
+        "value": 23,
+        "label": "保姆"
+      },
+      {
+        "value": 24,
+        "label": "家政"
+      },
+      {
+        "value": 25,
+        "label": "婚礼策划"
+      },
+      {
+        "value": 26,
+        "label": "育婴师"
+      },
+      {
+        "value": 27,
+        "label": "催乳师"
+      },
+      {
+        "value": 28,
+        "label": "司机"
+      }
+    ]
+  },
+  {
+    "value": 6,
+    "label": "市场/销售",
+    "children": [
+      {
+        "value": 0,
+        "label": "市场营销"
+      },
+      {
+        "value": 1,
+        "label": "市场策划"
+      },
+      {
+        "value": 2,
+        "label": "市场顾问"
+      },
+      {
+        "value": 3,
+        "label": "市场总监"
+      },
+      {
+        "value": 4,
+        "label": "市场推广"
+      },
+      {
+        "value": 5,
+        "label": "SEO"
+      },
+      {
+        "value": 6,
+        "label": "品牌经理"
+      },
+      {
+        "value": 7,
+        "label": "SEM"
+      },
+      {
+        "value": 8,
+        "label": "商务渠道"
+      },
+      {
+        "value": 9,
+        "label": "网络营销"
+      },
+      {
+        "value": 10,
+        "label": "活动策划"
+      },
+      {
+        "value": 11,
+        "label": " APP推广"
+      },
+      {
+        "value": 12,
+        "label": "销售专员"
+      },
+      {
+        "value": 13,
+        "label": "销售经理"
+      },
+      {
+        "value": 14,
+        "label": "客户代表"
+      },
+      {
+        "value": 15,
+        "label": "销售代表"
+      },
+      {
+        "value": 16,
+        "label": "BD经理"
+      },
+      {
+        "value": 17,
+        "label": "大客户销售"
+      },
+      {
+        "value": 18,
+        "label": "渠道销售"
+      },
+      {
+        "value": 19,
+        "label": "销售助理"
+      },
+      {
+        "value": 20,
+        "label": "电话销售"
+      },
+      {
+        "value": 21,
+        "label": "销售顾问"
+      },
+      {
+        "value": 22,
+        "label": "商品经理"
+      },
+      {
+        "value": 23,
+        "label": "广告销售"
+      },
+      {
+        "value": 24,
+        "label": "网络营销"
+      },
+      {
+        "value": 25,
+        "label": "营销主管"
+      },
+      {
+        "value": 26,
+        "label": "销售总监"
+      },
+      {
+        "value": 27,
+        "label": "商务总监"
+      },
+      {
+        "value": 28,
+        "label": "城市经理"
+      }
+    ]
+  },
+  {
+    "value": 7,
+    "label": "人事/财务/行政",
+    "children": [
+      {
+        "value": 0,
+        "label": "人力资源主管"
+      },
+      {
+        "value": 1,
+        "label": "招聘"
+      },
+      {
+        "value": 2,
+        "label": "HRBP"
+      },
+      {
+        "value": 3,
+        "label": "人力资源专员"
+      },
+      {
+        "value": 4,
+        "label": "培训"
+      },
+      {
+        "value": 5,
+        "label": "薪资福利"
+      },
+      {
+        "value": 6,
+        "label": "绩效考核"
+      },
+      {
+        "value": 7,
+        "label": "人力资源经理"
+      },
+      {
+        "value": 8,
+        "label": "人力资源总监"
+      },
+      {
+        "value": 9,
+        "label": "员工关系"
+      },
+      {
+        "value": 10,
+        "label": "组织发展"
+      },
+      {
+        "value": 11,
+        "label": "会计"
+      },
+      {
+        "value": 12,
+        "label": "出纳"
+      },
+      {
+        "value": 13,
+        "label": "财务顾问"
+      },
+      {
+        "value": 14,
+        "label": "结算"
+      },
+      {
+        "value": 15,
+        "label": "税务"
+      },
+      {
+        "value": 16,
+        "label": "风控"
+      },
+      {
+        "value": 17,
+        "label": "财务经理"
+      },
+      {
+        "value": 18,
+        "label": "财务主管"
+      },
+      {
+        "value": 19,
+        "label": "财务分析"
+      },
+      {
+        "value": 20,
+        "label": "法务专员"
+      },
+      {
+        "value": 21,
+        "label": "律师"
+      },
+      {
+        "value": 22,
+        "label": "法律顾问"
+      },
+      {
+        "value": 23,
+        "label": "法务主管"
+      },
+      {
+        "value": 24,
+        "label": "行政专员"
+      },
+      {
+        "value": 25,
+        "label": "前台"
+      },
+      {
+        "value": 26,
+        "label": "行政主管"
+      },
+      {
+        "value": 27,
+        "label": "经理助理"
+      },
+      {
+        "value": 28,
+        "label": "后勤"
+      },
+      {
+        "value": 29,
+        "label": "司机"
+      },
+      {
+        "value": 30,
+        "label": "行政经理"
+      },
+      {
+        "value": 31,
+        "label": "行政总监"
+      }
+    ]
+  }
+]
