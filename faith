@@ -1,0 +1,26 @@
+[
+  {
+    "label": "无信仰",
+    "value": 0
+  },
+  {
+    "label": "基督教",
+    "value": 1
+  },
+  {
+    "label": "佛教",
+    "value": 2
+  },
+  {
+    "label": "道教",
+    "value": 3
+  },
+  {
+    "label": "伊斯兰教",
+    "value": 4
+  },
+  {
+    "label": "其他",
+    "value": 5
+  }
+]
