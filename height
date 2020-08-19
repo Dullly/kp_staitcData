@@ -1,0 +1,326 @@
+[
+  {
+    "label": "140cm",
+    "value": 0
+  },
+  {
+    "label": "141cm",
+    "value": 1
+  },
+  {
+    "label": "142cm",
+    "value": 2
+  },
+  {
+    "label": "143cm",
+    "value": 3
+  },
+  {
+    "label": "144cm",
+    "value": 4
+  },
+  {
+    "label": "145cm",
+    "value": 5
+  },
+  {
+    "label": "146cm",
+    "value": 6
+  },
+  {
+    "label": "147cm",
+    "value": 7
+  },
+  {
+    "label": "148cm",
+    "value": 8
+  },
+  {
+    "label": "149cm",
+    "value": 9
+  },
+  {
+    "label": "150cm",
+    "value": 10
+  },
+  {
+    "label": "151cm",
+    "value": 11
+  },
+  {
+    "label": "152cm",
+    "value": 12
+  },
+  {
+    "label": "153cm",
+    "value": 13
+  },
+  {
+    "label": "154cm",
+    "value": 14
+  },
+  {
+    "label": "155cm",
+    "value": 15
+  },
+  {
+    "label": "156cm",
+    "value": 16
+  },
+  {
+    "label": "157cm",
+    "value": 17
+  },
+  {
+    "label": "158cm",
+    "value": 18
+  },
+  {
+    "label": "159cm",
+    "value": 19
+  },
+  {
+    "label": "160cm",
+    "value": 20
+  },
+  {
+    "label": "161cm",
+    "value": 21
+  },
+  {
+    "label": "162cm",
+    "value": 22
+  },
+  {
+    "label": "163cm",
+    "value": 23
+  },
+  {
+    "label": "164cm",
+    "value": 24
+  },
+  {
+    "label": "165cm",
+    "value": 25
+  },
+  {
+    "label": "166cm",
+    "value": 26
+  },
+  {
+    "label": "167cm",
+    "value": 27
+  },
+  {
+    "label": "168cm",
+    "value": 28
+  },
+  {
+    "label": "169cm",
+    "value": 29
+  },
+  {
+    "label": "170cm",
+    "value": 30
+  },
+  {
+    "label": "171cm",
+    "value": 31
+  },
+  {
+    "label": "172cm",
+    "value": 32
+  },
+  {
+    "label": "173cm",
+    "value": 33
+  },
+  {
+    "label": "174cm",
+    "value": 34
+  },
+  {
+    "label": "175cm",
+    "value": 35
+  },
+  {
+    "label": "176cm",
+    "value": 36
+  },
+  {
+    "label": "177cm",
+    "value": 37
+  },
+  {
+    "label": "178cm",
+    "value": 38
+  },
+  {
+    "label": "179cm",
+    "value": 39
+  },
+  {
+    "label": "180cm",
+    "value": 40
+  },
+  {
+    "label": "181cm",
+    "value": 41
+  },
+  {
+    "label": "182cm",
+    "value": 42
+  },
+  {
+    "label": "183cm",
+    "value": 43
+  },
+  {
+    "label": "184cm",
+    "value": 44
+  },
+  {
+    "label": "185cm",
+    "value": 45
+  },
+  {
+    "label": "186cm",
+    "value": 46
+  },
+  {
+    "label": "187cm",
+    "value": 47
+  },
+  {
+    "label": "188cm",
+    "value": 48
+  },
+  {
+    "label": "189cm",
+    "value": 49
+  },
+  {
+    "label": "190cm",
+    "value": 50
+  },
+  {
+    "label": "191cm",
+    "value": 51
+  },
+  {
+    "label": "192cm",
+    "value": 52
+  },
+  {
+    "label": "193cm",
+    "value": 53
+  },
+  {
+    "label": "194cm",
+    "value": 54
+  },
+  {
+    "label": "195cm",
+    "value": 55
+  },
+  {
+    "label": "196cm",
+    "value": 56
+  },
+  {
+    "label": "197cm",
+    "value": 57
+  },
+  {
+    "label": "198cm",
+    "value": 58
+  },
+  {
+    "label": "199cm",
+    "value": 59
+  },
+  {
+    "label": "200cm",
+    "value": 60
+  },
+  {
+    "label": "201cm",
+    "value": 61
+  },
+  {
+    "label": "202cm",
+    "value": 62
+  },
+  {
+    "label": "203cm",
+    "value": 63
+  },
+  {
+    "label": "204cm",
+    "value": 64
+  },
+  {
+    "label": "205cm",
+    "value": 65
+  },
+  {
+    "label": "206cm",
+    "value": 66
+  },
+  {
+    "label": "207cm",
+    "value": 67
+  },
+  {
+    "label": "208cm",
+    "value": 68
+  },
+  {
+    "label": "209cm",
+    "value": 69
+  },
+  {
+    "label": "210cm",
+    "value": 70
+  },
+  {
+    "label": "211cm",
+    "value": 71
+  },
+  {
+    "label": "212cm",
+    "value": 72
+  },
+  {
+    "label": "213cm",
+    "value": 73
+  },
+  {
+    "label": "214cm",
+    "value": 74
+  },
+  {
+    "label": "215cm",
+    "value": 75
+  },
+  {
+    "label": "216cm",
+    "value": 76
+  },
+  {
+    "label": "217cm",
+    "value": 77
+  },
+  {
+    "label": "218cm",
+    "value": 78
+  },
+  {
+    "label": "219cm",
+    "value": 79
+  },
+  {
+    "label": "220cm",
+    "value": 80
+  }
+]
