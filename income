@@ -1,0 +1,30 @@
+[
+  {
+    "label": "10W以下",
+    "value": 0
+  },
+  {
+    "label": "10W-20W",
+    "value": 1
+  },
+  {
+    "label": "20W-30W",
+    "value": 2
+  },
+  {
+    "label": "30W-50W",
+    "value": 3
+  },
+  {
+    "label": "50W-100W",
+    "value": 4
+  },
+  {
+    "label": "100W-300W",
+    "value": 5
+  },
+  {
+    "label": "300W以上",
+    "value": 6
+  }
+]
