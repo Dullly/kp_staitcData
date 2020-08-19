@@ -1,0 +1,446 @@
+[
+  {
+    "label": "30kg",
+    "value": 0
+  },
+  {
+    "label": "31kg",
+    "value": 1
+  },
+  {
+    "label": "32kg",
+    "value": 2
+  },
+  {
+    "label": "33kg",
+    "value": 3
+  },
+  {
+    "label": "34kg",
+    "value": 4
+  },
+  {
+    "label": "35kg",
+    "value": 5
+  },
+  {
+    "label": "36kg",
+    "value": 6
+  },
+  {
+    "label": "37kg",
+    "value": 7
+  },
+  {
+    "label": "38kg",
+    "value": 8
+  },
+  {
+    "label": "39kg",
+    "value": 9
+  },
+  {
+    "label": "40kg",
+    "value": 10
+  },
+  {
+    "label": "41kg",
+    "value": 11
+  },
+  {
+    "label": "42kg",
+    "value": 12
+  },
+  {
+    "label": "43kg",
+    "value": 13
+  },
+  {
+    "label": "44kg",
+    "value": 14
+  },
+  {
+    "label": "45kg",
+    "value": 15
+  },
+  {
+    "label": "46kg",
+    "value": 16
+  },
+  {
+    "label": "47kg",
+    "value": 17
+  },
+  {
+    "label": "48kg",
+    "value": 18
+  },
+  {
+    "label": "49kg",
+    "value": 19
+  },
+  {
+    "label": "50kg",
+    "value": 20
+  },
+  {
+    "label": "51kg",
+    "value": 21
+  },
+  {
+    "label": "52kg",
+    "value": 22
+  },
+  {
+    "label": "53kg",
+    "value": 23
+  },
+  {
+    "label": "54kg",
+    "value": 24
+  },
+  {
+    "label": "55kg",
+    "value": 25
+  },
+  {
+    "label": "56kg",
+    "value": 26
+  },
+  {
+    "label": "57kg",
+    "value": 27
+  },
+  {
+    "label": "58kg",
+    "value": 28
+  },
+  {
+    "label": "59kg",
+    "value": 29
+  },
+  {
+    "label": "60kg",
+    "value": 30
+  },
+  {
+    "label": "61kg",
+    "value": 31
+  },
+  {
+    "label": "62kg",
+    "value": 32
+  },
+  {
+    "label": "63kg",
+    "value": 33
+  },
+  {
+    "label": "64kg",
+    "value": 34
+  },
+  {
+    "label": "65kg",
+    "value": 35
+  },
+  {
+    "label": "66kg",
+    "value": 36
+  },
+  {
+    "label": "67kg",
+    "value": 37
+  },
+  {
+    "label": "68kg",
+    "value": 38
+  },
+  {
+    "label": "69kg",
+    "value": 39
+  },
+  {
+    "label": "70kg",
+    "value": 40
+  },
+  {
+    "label": "71kg",
+    "value": 41
+  },
+  {
+    "label": "72kg",
+    "value": 42
+  },
+  {
+    "label": "73kg",
+    "value": 43
+  },
+  {
+    "label": "74kg",
+    "value": 44
+  },
+  {
+    "label": "75kg",
+    "value": 45
+  },
+  {
+    "label": "76kg",
+    "value": 46
+  },
+  {
+    "label": "77kg",
+    "value": 47
+  },
+  {
+    "label": "78kg",
+    "value": 48
+  },
+  {
+    "label": "79kg",
+    "value": 49
+  },
+  {
+    "label": "80kg",
+    "value": 50
+  },
+  {
+    "label": "81kg",
+    "value": 51
+  },
+  {
+    "label": "82kg",
+    "value": 52
+  },
+  {
+    "label": "83kg",
+    "value": 53
+  },
+  {
+    "label": "84kg",
+    "value": 54
+  },
+  {
+    "label": "85kg",
+    "value": 55
+  },
+  {
+    "label": "86kg",
+    "value": 56
+  },
+  {
+    "label": "87kg",
+    "value": 57
+  },
+  {
+    "label": "88kg",
+    "value": 58
+  },
+  {
+    "label": "89kg",
+    "value": 59
+  },
+  {
+    "label": "90kg",
+    "value": 60
+  },
+  {
+    "label": "91kg",
+    "value": 61
+  },
+  {
+    "label": "92kg",
+    "value": 62
+  },
+  {
+    "label": "93kg",
+    "value": 63
+  },
+  {
+    "label": "94kg",
+    "value": 64
+  },
+  {
+    "label": "95kg",
+    "value": 65
+  },
+  {
+    "label": "96kg",
+    "value": 66
+  },
+  {
+    "label": "97kg",
+    "value": 67
+  },
+  {
+    "label": "98kg",
+    "value": 68
+  },
+  {
+    "label": "99kg",
+    "value": 69
+  },
+  {
+    "label": "100kg",
+    "value": 70
+  },
+  {
+    "label": "101kg",
+    "value": 71
+  },
+  {
+    "label": "102kg",
+    "value": 72
+  },
+  {
+    "label": "103kg",
+    "value": 73
+  },
+  {
+    "label": "104kg",
+    "value": 74
+  },
+  {
+    "label": "105kg",
+    "value": 75
+  },
+  {
+    "label": "106kg",
+    "value": 76
+  },
+  {
+    "label": "107kg",
+    "value": 77
+  },
+  {
+    "label": "108kg",
+    "value": 78
+  },
+  {
+    "label": "109kg",
+    "value": 79
+  },
+  {
+    "label": "110kg",
+    "value": 80
+  },
+  {
+    "label": "111kg",
+    "value": 81
+  },
+  {
+    "label": "112kg",
+    "value": 82
+  },
+  {
+    "label": "113kg",
+    "value": 83
+  },
+  {
+    "label": "114kg",
+    "value": 84
+  },
+  {
+    "label": "115kg",
+    "value": 85
+  },
+  {
+    "label": "116kg",
+    "value": 86
+  },
+  {
+    "label": "117kg",
+    "value": 87
+  },
+  {
+    "label": "118kg",
+    "value": 88
+  },
+  {
+    "label": "119kg",
+    "value": 89
+  },
+  {
+    "label": "120kg",
+    "value": 90
+  },
+  {
+    "label": "121kg",
+    "value": 91
+  },
+  {
+    "label": "122kg",
+    "value": 92
+  },
+  {
+    "label": "123kg",
+    "value": 93
+  },
+  {
+    "label": "124kg",
+    "value": 94
+  },
+  {
+    "label": "125kg",
+    "value": 95
+  },
+  {
+    "label": "126kg",
+    "value": 96
+  },
+  {
+    "label": "127kg",
+    "value": 97
+  },
+  {
+    "label": "128kg",
+    "value": 98
+  },
+  {
+    "label": "129kg",
+    "value": 99
+  },
+  {
+    "label": "130kg",
+    "value": 100
+  },
+  {
+    "label": "131kg",
+    "value": 101
+  },
+  {
+    "label": "132kg",
+    "value": 102
+  },
+  {
+    "label": "133kg",
+    "value": 103
+  },
+  {
+    "label": "134kg",
+    "value": 104
+  },
+  {
+    "label": "135kg",
+    "value": 105
+  },
+  {
+    "label": "136kg",
+    "value": 106
+  },
+  {
+    "label": "137kg",
+    "value": 107
+  },
+  {
+    "label": "138kg",
+    "value": 108
+  },
+  {
+    "label": "139kg",
+    "value": 109
+  },
+  {
+    "label": "140kg",
+    "value": 110
+  }
+]
